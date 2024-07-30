@@ -5,7 +5,7 @@
 ---
    - type in the command
    ```
-   curl -L https://github.com/kaslmineer7999/kaslmineer7999sownpd/releases/download/idk_so_welcone_to_this/myownpd.sh -O ~/myownpd.sh
+   curl -L https://github.com/kaslmineer7999/kaslmineer7999sownpd/releases/download/idk_so_welcone_to_this/myownpd.sh -o ~/myownpd.sh
    ```
 ---
 2. running the script
